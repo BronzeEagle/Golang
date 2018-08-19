@@ -50,7 +50,7 @@ func main() {
 		},
 	}
 	fmt.Println(c.ToString())
-	c.ChangeEmail("krystab@gmail.com")
+	c.ChangeEmail("krystaboyle@gmail.com")
 	fmt.Println("Customer after changing the Email:")
 	fmt.Println(c.ToString())
 	fmt.Println(c.ShippingAddress())
