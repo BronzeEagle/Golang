@@ -17,6 +17,8 @@ func CreateMap() map[int]string {
 		2: "Krysta",
 		3: "Samantha",
 		4: "Lisa",
+		5: "Sara",
+		6: "Miranda",
 	}
 	return names
 }
